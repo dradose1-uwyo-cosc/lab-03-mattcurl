@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Matt Curl
+## Assignment #3
+## 9/29/2024
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* 
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+None
